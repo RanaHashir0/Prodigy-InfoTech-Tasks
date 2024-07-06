@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Prodigy InfoTech - Internship Tasks</title>
-</head>
-<body>
+
 
     <h1>Prodigy InfoTech - Internship Tasks</h1>
 
@@ -19,5 +14,3 @@
     <h2>Task 04: Sentiment Analysis and Visualization</h2>
     <p>Analyze and visualize sentiment trends in social media data to understand public opinion on specific topics or brands.</p>
 
-</body>
-</html>
